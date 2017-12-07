@@ -1,5 +1,5 @@
 @charset "utf-8";
-html,body{height:100%;font-size: 16px; text-decoration: none; margin: 0; padding: 0;font-family: sans-serif;background:rgb(198, 190, 166);}
+html,body{height:100%;font-size: 16px; text-decoration: none; margin: 0; padding: 0;font-family: arial,sans-serif;background:rgb(198, 190, 166);}
 
 /*--------------General---------------*/
 .animate{
