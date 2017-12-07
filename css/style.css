@@ -76,7 +76,7 @@ and (max-width : 1366px) {.banner__cover__caption {width: 30%; margin: 1.5%;}}
 	.cover {height: 100%;width: 100%}
 
 /*--------------Banner---------------*/
-	.banner__cover__caption{display: table;height: 100%;width: 90%;position: relative;z-index: 1; margin: 5%;}
+	.banner__cover__caption{display: table;height: 100%; ;border: 1px solid #333; border-radius: 6%;width: 90%;position: relative;z-index: 1; margin: 5%;}
   .banner__cover__caption--copy {width: 100%;}
 	.banner__cover__caption--copy p {margin: 5%;}
   .banner__cover__caption--copy h1 {font-size: 36px;}
