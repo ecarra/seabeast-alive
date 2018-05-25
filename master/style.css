@@ -30,5 +30,5 @@ table {
   height: 600px;
   background-color: #000;
 }
-.carousel-item {background-image: url("../img/img7.jpg"); background-size: cover; position: no-repeat center center;}
-.card-img-overlay {background-image: url("../img/img7.jpg"); background-size: cover; position: no-repeat center center;}
+.carousel-item {background-image: url("../imgs/img7.jpg"); background-size: cover; position: no-repeat center center;}
+.card-img-overlay {background-image: url("../imgs/img7.jpg"); background-size: cover; position: no-repeat center center;}
